@@ -1,4 +1,4 @@
-# R-Type Extended 2026-10-20 (baee820)
+# R-Type Extended 2026-10-20 (decdf1f)
 
 A patch for the 1987 arcade R-Type (Irem, M72 board) that adds four things the original never
 had, on the original board's own program:
@@ -87,4 +87,9 @@ without it: it holds none of the game's program, graphics or sound (see above), 
 own lawfully obtained copy of the original ROMs. None are included here, none are linked to, and
 none are sent on request: please do not ask. The patcher and the patch's own code are under the
 MIT licence (LICENSE), which grants nothing for Irem's work. If you hold rights in R-Type and
-object to this patch, it will be taken down on request.
+object to this patch, write to dev@rtypeneo.com and it will be taken down.
+
+## Contact
+
+dev@rtypeneo.com, or an issue on this repository. More about how the patch was made, with videos
+and screenshots: https://rtypeneo.com/arcade.html
