@@ -1,4 +1,4 @@
-# R-Type Extended 2026-10-20 (decdf1f)
+# R-Type Extended 2026-10-20 (7d13fb5)
 
 A patch for the 1987 arcade R-Type (Irem, M72 board) that adds four things the original never
 had, on the original board's own program:
@@ -60,11 +60,11 @@ only read. Put that zip where MAME looks for ROMs in place of the original (keep
 elsewhere) and run `rtype`.
 
 With `--set rtypeu` it writes `rtype-extended/rtypeu.zip` instead: the same game as MAME's
-R-Type (US) clone, which sits beside an untouched `rtype.zip` (front-ends such as Recalbox list it
-as "R-Type (US)"). `-o FOLDER` picks the output folder. Every file written is checked against the
+R-Type (US) clone, which sits beside an untouched `rtype.zip` (front-ends list it as
+"R-Type (US)"). `-o FOLDER` picks the output folder. Every file written is checked against the
 SHA1 it must have, so a wrong or damaged input stops with the files it could not find.
 
-Tested with MAME 0.289, and MAME 0.258 (Recalbox).
+Tested with MAME 0.289 and MAME 0.258.
 
 ## What is in the patch
 
